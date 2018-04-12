@@ -13,7 +13,7 @@ Pensez à y placer vos clés pour que ça fonctionne.
 Pour voir un peu ce que ça donne, visitez (et au passage suivez) mon compte [@racman](https://twitter.com/racman)
 
 
-Si vous utiliser un de ces bots, une petite mention pour **@racman** ou **#racman** ou **#TheHackingProject** ou **#West_Coast_Provence** ça fait zizi ^^
+Si vous utiliser un de ces bots, une petite mention pour **@racman** ou **#racman** ou **#TheHackingProject** ou **#West_Coast_Provence** ça fait plaisir ^^
 
 
 - 01 - hello world - pour balancer son premier tweet dans l'espace
